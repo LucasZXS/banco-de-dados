@@ -1,2 +1,2 @@
-# banco-de-dados
+# banco de dados
 Fundamentos do banco de dados
